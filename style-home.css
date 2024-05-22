@@ -1,0 +1,49 @@
+body {
+	background: #f3dfec
+}
+#banner {
+	width: 100%;
+
+}
+h1 {
+	text-align:center;
+	color:#0c0b0b;
+	border: 5px solid #0d0f0f;
+	padding: 20px;
+}
+p {
+	text-align: center;
+}
+
+
+#missão{
+	font-size: 20px;
+}
+em strong {
+	color:#111011;
+}
+
+
+  .itens {
+	font-style: italic;
+ }
+	.beneficios {
+		background:#0c0b0b;
+		padding: 20px;
+		;
+ }
+
+ h2{
+	text-align: center ;
+ }
+ul{
+	display:inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right:15%;
+}
+.imagembeneficios {
+	width:40%;
+	padding-left:30%;
+
+}
